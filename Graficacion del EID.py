@@ -1,1 +1,2 @@
-print ("pepino")
+class pepino():
+  pass
